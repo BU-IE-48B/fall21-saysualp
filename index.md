@@ -9,3 +9,8 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-saysual
 # Homework 2 (22/11/2021)
 
 [Report](https://bu-ie-48b.github.io/fall21-saysualp/html/IE48B_Fall21_Homework2.html) including R codes for Homework 2
+
+
+# Homework 3 (13/12/2021)
+
+[Report](https://bu-ie-48b.github.io/fall21-saysualp/html/IE48B_Fall21_Homework3.html) including R codes for Homework 3

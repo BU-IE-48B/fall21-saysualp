@@ -16,4 +16,4 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-saysual
 
 # Homework 4 (24/01/2022)
 
-[Report](https://bu-ie-48b.github.io/fall21-saysualp/html/IE48B_Fall21_Homework4.html) including R codes for Homework 3
+[Report](https://bu-ie-48b.github.io/fall21-saysualp/html/IE48B_Fall21_Homework4.html) including R codes for Homework 4

@@ -21,6 +21,6 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-saysual
 # Project (24/01/2022)
 <ul>
   <li><a href="https://bu-ie-48b.github.io/fall21-saysualp/Project/Report.pdf">Report</a></li>
-  <li>[Descriptive Analysis Codes](https://bu-ie-48b.github.io/fall21-saysualp/Project/Descriptive%20Analysis.html)</li>
-  <li>[Approach, Results, Model Selection Codes and Explanations](https://bu-ie-48b.github.io/fall21-saysualp/Project/Approach%2C%20Results%20and%20%20Model%20Selection.html)</li>
+  <li><a href="https://bu-ie-48b.github.io/fall21-saysualp/Project/Descriptive%20Analysis.html">Descriptive Analysis Codes</a></li>
+  <li><a href="https://bu-ie-48b.github.io/fall21-saysualp/Project/Approach%2C%20Results%20and%20%20Model%20Selection.html">Approach, Results, Model Selection Codes and Explanations</a></li>
 </ul> for final project

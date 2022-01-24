@@ -1,0 +1,18 @@
+baseline_accuracy_daily = function(dat, start_date, end_date){
+    
+    dat[, baseline1_prediction:=shift(system_direction, n=24, type="lag")]
+    dat[, baseline2_prediction:=shift(system_direction, n=168, type="lag")]
+    
+    dat = dat[date>=start_date & date<=end_date & hour>=12]
+    
+    dat[,result_1:=ifelse(system_direction==baseline1_prediction, 1, 0)]
+    dat[,result_2:=ifelse(system_direction==baseline2_prediction, 1, 0)]
+    
+    daily_summary = dat[,list(Baseline1_Daily_Accuracy=mean(result_1),
+                              Baseline2_Daily_Accuracy=mean(result_2)), c("date")]
+    
+    return(daily_summary)
+    
+}
+
+baseline_accuracy_daily(dat, as.Date("2022-01-09"), as.Date("2022-01-22"))

@@ -20,4 +20,4 @@ This is my [Progress Journal website](https://bu-ie-48b.github.io/fall21-saysual
 
 # Project (24/01/2022)
 
-[Report](https://bu-ie-48b.github.io/fall21-saysualp/Project/Report.pdf), [Descriptive Analysis Codes](https://bu-ie-48b.github.io/fall21-saysualp/Project/Descriptive%20Analysis.html), [Approach, Results and  Model Selection Codes and Explanations](https://bu-ie-48b.github.io/fall21-saysualp/Project/Approach%2C%20Results%20and%20%20Model%20Selection.html) for final project
+[Report](https://bu-ie-48b.github.io/fall21-saysualp/Project/Report.pdf), [Descriptive Analysis Codes](https://bu-ie-48b.github.io/fall21-saysualp/Project/Descriptive%20Analysis.html), [Approach Results and  Model Selection Codes and Explanations](https://bu-ie-48b.github.io/fall21-saysualp/Project/Approach%2C%20Results%20and%20%20Model%20Selection.html) for final project
